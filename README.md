@@ -1,4 +1,5 @@
-![logo](https://github.com/Kutagulla-Saikalyan/Kutagulla-Saikalyan/blob/main/DS%20BG.webp)
+![logo](https://github.com/Kutagulla-Saikalyan/Kutagulla-Saikalyan/blob/main/DS%20BG.webp){width=1000}
+
 <h1 align="center">Hi 👋, I'm Kutagulla Saikalyan</h1>
 <h3 align="center">A Passionate Data Science Associate from India.</h3>
 
