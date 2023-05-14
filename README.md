@@ -1,11 +1,17 @@
+https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif
+
 <h1 align="center">Hi 👋, I'm Kutagulla Saikalyan</h1>
 <h3 align="center">A Passionate Data Science Associate from India.</h3>
 
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 - 🔭 I’m currently working on [Automating Resume Shortlisting Using AI](https://drive.google.com/file/d/19rXeTBRiZgAftHPpI25vE805V0B5RIid/view?usp=sharing)
+
+- 🔭 I’m currently working on [Developing immersive, hands-on content on Python for Data Science to facilitate practical learning and skill development in programming, data analysis, and statistical modeling.](https://drive.google.com/file/d/1m1MA-uLjSJbD8ShIAOUr0qvd0T_jmbag/view?usp=sharing)
 
 - 🌱 I’m currently learning **Natural language processing (NLP), Deep learning, snowflake.**
 
-- 🔭 I’m currently working on [Developing immersive, hands-on content on Python for Data Science to facilitate practical learning and skill development in programming, data analysis, and statistical modeling.](https://drive.google.com/file/d/1m1MA-uLjSJbD8ShIAOUr0qvd0T_jmbag/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kutagulla-Saikalyan](https://github.com/Kutagulla-Saikalyan)
 
